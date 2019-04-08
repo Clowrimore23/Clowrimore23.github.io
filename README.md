@@ -1,1 +1,5 @@
-# Clowrimore23.github.io
+# Courtney Lowrimore
+
+## sources
+* Normalize CSS 
+* jQuery https://jquery.com/
